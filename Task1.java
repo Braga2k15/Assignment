@@ -59,7 +59,7 @@ public class Task1 {
             System.out.print(score4);
 
         else if(score4<0 || score4>100)
-        System.out.print("Error Input out of bound. Score can only be between 0 and 100");
+        System.out.print("Error Input out of bound. Score can only be between 0 and 100. Try again:  ");
         score4 = input.nextInt();
 
 
@@ -73,7 +73,7 @@ public class Task1 {
             System.out.print(score5);
 
         else if(score5<0 || score5>100){
-        System.out.println("Error Input out of bound. Score can only be between 0 and 100");}
+        System.out.println("Error Input out of bound. Score can only be between 0 and 100. Try again:  ");}
         score5= input.nextInt();
 
 
@@ -86,7 +86,7 @@ public class Task1 {
             System.out.print(score6);
 
         else if(score6<0 || score6>100) {
-        System.out.println("Error Input out of bound. Score can only be between 0 and 100");}
+        System.out.println("Error Input out of bound. Score can only be between 0 and 100. Try again:  ");}
         score6 = input.nextInt();
 
 
@@ -99,7 +99,7 @@ public class Task1 {
             System.out.print(score7);
 
         else if(score7<0 || score7>100) {
-            System.out.println("Error Input out of bound. Score can only be between 0 and 100");
+            System.out.println("Error Input out of bound. Score can only be between 0 and 100. Try again:  ");
             score7 = input.nextInt();
 
         }//int results = (score1 + score2 + score3 + score4 + score5 + score6 + score7);
