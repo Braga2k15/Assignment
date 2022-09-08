@@ -115,7 +115,7 @@ public class Task1 {
             System.out.printf("rounded");
             
             
-            double Totalscore = Toalscore.length 
+           /*double Totalscore = Toalscore.length 
 
     }
        
