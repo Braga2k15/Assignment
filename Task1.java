@@ -107,5 +107,16 @@ public class Task1 {
             {//System.out.printf("\nThank you for your input. Your entered scores are:  %f", results);
 
             }
+            
+            /* double TotalScore = Score1 + Score2 + Score3 + Score4 + Score5 + Score6 + Score7;
+            double mean = TotalScore/7;
+            double rounded = Math.round(mean*100.0)/100.0
+
+            System.out.printf("rounded");
+            
+            
+            double Totalscore = Toalscore.length 
+
     }
+       
 }}
